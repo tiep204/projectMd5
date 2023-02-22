@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "productNa",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 2,
+      "productName": "proName1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 3,
+      "productName": "prodme1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 4,
+      "productName": "prodame1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 5,
+      "productName": "pr",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 6,
+      "productName": "proame1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 7,
+      "productName": "prName1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 8,
+      "productName": "productNae1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 9,
+      "productName": "ctName1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 10,
+      "productName": "pctName1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 11,
+      "productName": "produme1",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    },
+    {
+      "productId": 12,
+      "productName": "sdfh",
+      "productImage": "andna.jpg",
+      "productDecription": "ddaadkfnsd asdoihgknjsa dofigaedndsk",
+      "productPrice": 20000,
+      "productQuantity": 50,
+      "productTitle": "bai nay rat rat rat la kho khan",
+      "productStatus": true
+    }
+  ],
+  "catalogs": [
+    {
+      "catalogName": "zdfghdf",
+      "id": 2
+    },
+    {
+      "catalogName": "sdfhfd",
+      "id": 3
+    },
+    {
+      "catalogName": "33",
+      "status": true,
+      "id": 4
+    }
+  ]
+}
